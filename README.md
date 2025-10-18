@@ -19,12 +19,4 @@
 <img src="Screens/5.png" alt="first" />
 
 ----
-Auteur:
-----
-Realisé par: <br>
-RIZKI Mohamed Amine <br>
-SERNANE Yahya <br>
-EL MALKY Douaa <br>
-AHCHOUCHE Firdawsse <br>
-FETH-EDDINE Zineb <br>
-MALEK Jihane <br>
+
